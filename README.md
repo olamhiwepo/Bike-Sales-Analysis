@@ -9,6 +9,6 @@
 I downloaded the dataset from kaggle and then imported it to mysql workbench where i did the data analysis. i then visualized my results using PowerBI
 
 # Insights
-![photo]()
+![photo](https://github.com/olamhiwepo/Bike-Sales-Analysis/blob/main/big%20%20bike.PNG)
 
 # conclusion and recommendation
