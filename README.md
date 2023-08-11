@@ -16,4 +16,5 @@ I downloaded the dataset from kaggle and then imported it to mysql workbench whe
 - Revenue peaked in 2015
    
 # conclusion and recommendation
-- 
+- Seniors won't usually buy bikes that much, so advertisement efforts for them should be concentratd on accesories and clothing
+- Canada and France needs to work more on their advertisement and also consider a method to take feedbacks from their customers about how service can be improved
